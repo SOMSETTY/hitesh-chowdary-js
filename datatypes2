@@ -1,0 +1,18 @@
+/* (1) primitive 
+7 types types: strings,number,boolean,null,undefined,symbol,BigInt
+
+(2)reference type( non-premitive)
+array,objects,functions
+
+*/
+const score = 100;
+const scoreValue = 100.3;
+const isLoggedIn = false ;
+
+const outsideTemp = null
+let userEmail;
+
+const id = symbol('123')
+const anotherId = symbol('123')
+
+console.log(id === anotherId) ;
