@@ -50,7 +50,9 @@ Practicing JavaScript through projects is an excellent way to reinforce your ski
 
 10)Portfolio Website: Create a personal portfolio website to showcase your projects, skills, and experience. This project will involve designing a user-friendly interface, implementing responsive design techniques, and adding interactive elements using JavaScript.
 
-Choose a project that interests you and matches your skill level, and don't hesitate to experiment and add your own features to make it unique!
+Choose a project that interests you and matches your skill level, and don't hesitate to experiment and add your own features to make it unique!  */
+
+
 
 
 

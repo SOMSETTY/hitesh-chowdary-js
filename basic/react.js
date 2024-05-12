@@ -23,7 +23,7 @@ Testing: React applications can be tested using various testing libraries and fr
 
 Understanding these main topics will give you a solid foundation for building React applications and working effectively with the React ecosystem.
 
-/********************************************************** *//
+/********************************************************** */
 /*
 Practicing with projects is an excellent way to solidify your understanding of React concepts and improve your skills. Here are some practice project ideas for React:
 
