@@ -1,0 +1,33 @@
+/* (1) primitive 
+7 types types: strings,number,boolean,null,undefined,symbol,BigInt
+
+(2)reference type( non-premitive)
+array,objects,functions
+
+*/
+const score = 100;
+const scoreValue = 100.3;
+const isLoggedIn = false ;
+
+const outsideTemp = null
+let userEmail;
+
+const id = Symbol('123');
+const anotherId = Symbol('123');
+
+console.log(id === anotherId);
+
+ const bigNumber = 345678899393939393939n ;
+// Array
+ const heros = ["shaktiman","naagraju", "doga"]  
+//  object
+ let myObj= {
+    name : "sandeep" ,      
+    age  : 28,   
+ } 
+ // function
+ const myFunctionm = function(){
+    console.log("hello world") ;
+ }
+
+ console.log(typeof bigNumber)
